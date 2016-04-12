@@ -21,4 +21,5 @@ Server.init().then(server => {
             };
         });
     });
-});
+})
+.catch(console.error);
