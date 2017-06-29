@@ -1,2 +1,2 @@
 # yarpc
-Yet another RPC ower RabbitMQ
+Yet another RPC over RabbitMQ
